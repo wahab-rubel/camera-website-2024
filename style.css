@@ -185,6 +185,12 @@ header {
   margin:10px;
   text-align: center;
 }
+.social-icon{
+  color: white !important;
+  margin: 10px;
+  text-align: center;
+  
+}
 
 /** ---------------------Media quark----------------------- **/
 @media screen and (max-width:576px) {
